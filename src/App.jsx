@@ -5,6 +5,7 @@ import './App.css';
 
 function App() {
   console.log('hello hello');
+  console.log('i have made changes in app.jsx');
   return <>this is faith's work </>;
 }
 
