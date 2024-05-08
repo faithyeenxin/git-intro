@@ -4,9 +4,8 @@ import viteLogo from '/vite.svg';
 import './App.css';
 
 function App() {
-  console.log('hello hello');
-  console.log('i have made changes in app.jsx');
-  return <>this is faith's work </>;
+  console.log('hihihi');
+  return <>this is your friend and she decided to change your app.jsx file</>;
 }
 
 export default App;
