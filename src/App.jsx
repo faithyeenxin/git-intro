@@ -4,7 +4,8 @@ import viteLogo from '/vite.svg';
 import './App.css';
 
 function App() {
-  return <>this is a new branch and i am changing it</>;
+  console.log('hello hello');
+  return <>this is faith's work </>;
 }
 
 export default App;
